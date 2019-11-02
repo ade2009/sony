@@ -1,8 +1,5 @@
-
 <html lang="en-US">
 
-<!-- Mirrored from laughing-ride-e0aba8.netlify.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Nov 2019 23:42:57 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <base >
